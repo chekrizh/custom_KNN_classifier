@@ -1,0 +1,3 @@
+# install this for correct work
+numpy
+scipy
